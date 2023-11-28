@@ -6,6 +6,7 @@
 
 Zadáním projektu je vytvoření pomocných tabulek s informacemi o dostupnosti základních potravin<br />
 a následné vypracování základních přehledů dle zadání.<br />
+
 Podrobnější popis úkolů a vypracování je obsažen v souboru:<br /> 
 **Jana_Holcman_project_1_pruvodni_listina.docx**
 
